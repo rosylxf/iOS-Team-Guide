@@ -1,4 +1,4 @@
 # iOS-Team-Guide
-会玩iOS技术团队规范
+iOS技术团队规范
 
 --
